@@ -1,4 +1,4 @@
 vadai
-amavadai
-ulunthavadai
-oota vadai
+amavadai 23
+ulunthavadai  55
+oota vadai  66
